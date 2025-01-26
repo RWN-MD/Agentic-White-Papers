@@ -1,7 +1,7 @@
 # Agentic White Papers
 
 ## Introduction
-The **Agentic White Papers** repository is a core resource within the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) project. It houses the foundational documentation and research that define the vision, purpose, and technical implementation of the `.agent` top-level domain (TLD). This repository is a vital part of our journey to establish `.agent` as the future of agentic communication.
+The **Agentic White Papers** repository is a core resource within the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project. It houses the foundational documentation and research that define the vision, purpose, and technical implementation of the `.agent` top-level domain (TLD). This repository is a vital part of our journey to establish `.agent` as the future of agentic communication.
 
 ## Purpose
 This repository provides a centralized location for:
@@ -32,7 +32,7 @@ Contributions to this repository are critical to refining the `.agent` vision an
 - Reviewing and editing drafts of white papers and ICANN application materials.
 - Providing additional research or references to strengthen documentation.
 
-To contribute, please refer to the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) repository for project-wide contribution guidelines.
+To contribute, please refer to the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) repository for project-wide contribution guidelines.
 
 ## How This Repository Fits Into the Agentic Network
 The **Agentic White Papers** repository serves as the intellectual foundation for the entire **Agentic Network** project. By documenting our goals, use cases, and technical implementations, we aim to:
@@ -40,4 +40,4 @@ The **Agentic White Papers** repository serves as the intellectual foundation fo
 - Build a comprehensive knowledge base to guide the development of the `.agent` ecosystem.
 
 ---
-*Part of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) project.*
+*Part of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project.*
